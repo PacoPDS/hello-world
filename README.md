@@ -1,4 +1,4 @@
 # hello-world read-me
-Hello Wumans
+Hello Wuman Nora
 
 Knum Here and Here
